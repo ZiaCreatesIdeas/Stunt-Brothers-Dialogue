@@ -1,0 +1,1 @@
+This project focuses on create dialogue between two characters and possibly translating that into talking macquettes.
